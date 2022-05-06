@@ -23,4 +23,16 @@ Camera that is called NDVI filter. This filter allow to take photos in diffrent
 elektromagnetic spectrum, so that camera cannot see blue and red light. It will
 see just long infrared light and green light. This helps to 
 
+# About our Experiment 
+
+Our experiment description is
+
+Team’s objective
+We are gonna investigate how vegetation near radioactive and volcanic sites differ from normal plantlife
+
+Method for achieving the objective
+Our plan is to use our already written program to take hundreds of photos and save the location and time to a csv file. When we get our data back, we will search for images taken near places with radioactivity or volcanic activity, compare them with photos taken in other places and with photos taken a while ago in the same locations, which we could get from NASA archive
+
+Expected results
+We think that in volcanic affected areas there will be more vegetation then in normal sites because we assume that ash and ground heat may help plants to grow. In radioactive areas there will be the same amount of vegetation as in normal areas
 
