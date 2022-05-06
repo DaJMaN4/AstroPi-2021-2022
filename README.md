@@ -27,6 +27,13 @@ see just long infrared light and green light. This helps to
 
 Our experiment description is
 
+Life on Earth 
+With ousage of NDVI, we want to investigate to which extent does volcanic activity like volcanic ash and testing of nuclear weapon affect vegetation on Earth by compering gathered data to old satelite photos that we find on the NASA archive and areas that warent affected by volcanoes and/or nuclear activity. We hope that at the time of our investigation, the ISS will fly over at least one nuclear weapon testing area and one volcano-affected area. IF no - we are ony going to use the data we will happen to get, since volcanic activity can be found all over the world as volcanoes are as old as the Earth isself. 
+
+Data
+We plan to take NDVI photos
+
+
 Team’s objective
 We are gonna investigate how vegetation near radioactive and volcanic sites differ from normal plantlife
 
@@ -35,4 +42,6 @@ Our plan is to use our already written program to take hundreds of photos and sa
 
 Expected results
 We think that in volcanic affected areas there will be more vegetation then in normal sites because we assume that ash and ground heat may help plants to grow. In radioactive areas there will be the same amount of vegetation as in normal areas
+
+
 
