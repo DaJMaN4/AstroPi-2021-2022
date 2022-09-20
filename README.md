@@ -57,8 +57,6 @@ interested in comparing the data with photos in NASA\'s archive and
 areas we got photos of. With average brightness, we can calculate the
 average density of vegetation that we use for compressing.
 
-Repository with all scripts -
-[[https://github.com/Smulee/AstroPi2022-TingTarT]](https://github.com/Smulee/AstroPi2022-TingTarT)
 
 
 <br />
