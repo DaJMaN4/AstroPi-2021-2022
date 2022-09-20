@@ -4,13 +4,7 @@ This is a submition for Astro Pi: Mission Space Lab 2022 for team TingTarT with 
 
 ***
 
-Team name: TingTartT
-
 Chosen theme: Life on Earth
-
-Organisation name: Kvadraturen Videregående skole
-
-Country: Norway
 
 ## 1\. Introduction
 
