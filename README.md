@@ -8,7 +8,7 @@ Chosen theme: Life on Earth
 
 ## 1\. Introduction
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+The idea:
 
 > We decided to investigate to what extent volcanic activity like
 > volcanic ash and testing of nuclear weapons affect vegetation on
