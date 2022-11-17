@@ -24,3 +24,5 @@ The idea:
 > vegetation amount nearby.
 
 you can see the report as a pdf and you can see scripts
+
+timelapse of the fly https://www.youtube.com/watch?v=1vvNQkhN4n0
